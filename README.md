@@ -1,5 +1,15 @@
 # 👋 Hi there! 
 
-I'm <b>Marcos de Barros</b>, 37 years old and based in Hamburg. I've worked for the last 15 years in online and search marketing. With this coding bootcamp I am learning fundamentals to start my career as frontend developer.
+## Who am I?
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGR3uYaN4eWbA/profile-displayphoto-shrink_200_200/0/1663753401577?e=1670457600&v=beta&t=QBsE7XKHzoUDIZh8ZyPgjp7UDHe86YnvQm9Vhy8IIBo" width="200" height="200" alt="Marcos de Barros"/>
+I'm <b>Marcos de Barros</b>, 37 years old and based in Hamburg. I've worked for the last 15 years in online and search marketing. <p>
+At <i>neueFische</i>'s coding bootcamp I am learning fundamentals to start my career as a <b>Web Developer</b>.
+
+## That's me!
+![Marcos de Barros](https://media-exp1.licdn.com/dms/image/C4D03AQGR3uYaN4eWbA/profile-displayphoto-shrink_200_200/0/1663753401577?e=1670457600&v=beta&t=QBsE7XKHzoUDIZh8ZyPgjp7UDHe86YnvQm9Vhy8IIBo)
+
+## In my free time I like to: 
+  
+* Cook and eat pizza
+* Watch football (soccer) games
+* Go skiing
