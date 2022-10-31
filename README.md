@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, welcome to my github page!</h1>
 
-<h2>Who am I?</h2>
+<h2 align="center">Who am I?</h2>
 
-<p>
+<p align="center">
 I'm Marcos, a experienced search marketer, learning the fundamentals to start a career as a <b>Web Developer</b>. This is the place where I opensource stuff 😉 Thanks for visiting and I'm happy to [connect](https://www.linkedin.com/in/marcos-de-barros)!
 </p>
 
