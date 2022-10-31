@@ -14,9 +14,6 @@ I'm a experienced search marketer, learning the fundamentals to start a career a
 
 ## Where to find me:
 
-[![Linkedin Badge][(.../marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png&link=https://www.linkedin.com/in/marcos-de-barros/)](https://www.linkedin.com/in/marcos-de-barros/)
-[![Gmail Badge][(.../marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png&link=mailto:marcos.debarrosvioque@gmail.com)](mailto:marcos.debarrosvioque@gmail.com)
-
-<a href="[https://www.linkedin.com/in/marcos-de-barros/)"><img src="/marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png/" /></a><br>
-  <a href="mailto:marcos.debarrosvioque@gmail.com"><img src="/marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png/" /></a>
+<a href="[https://www.linkedin.com/in/marcos-de-barros/)"><img src="https://github.com/marcos-de-barros-vioque/marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png" /></a><br>
+  <a href="mailto:marcos.debarrosvioque@gmail.com"><img src="https://github.com/marcos-de-barros-vioque/marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png" /></a>
 </p>
