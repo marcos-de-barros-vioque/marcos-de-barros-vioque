@@ -14,6 +14,6 @@ I'm a experienced search marketer, learning the fundamentals to start a career a
 
 ## Where to find me:
 
-<a href="[https://www.linkedin.com/in/marcos-de-barros/)"><img src="https://github.com/marcos-de-barros-vioque/marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png" /></a><br>
+<a href="https://www.linkedin.com/in/marcos-de-barros/"><img src="https://github.com/marcos-de-barros-vioque/marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png" /></a><br>
   <a href="mailto:marcos.debarrosvioque@gmail.com"><img src="https://github.com/marcos-de-barros-vioque/marcos-de-barros-vioque/blob/main/personal-website/images/gmail.png" /></a>
 </p>
